@@ -1,0 +1,21 @@
+1. SERVER 
+
+npm i express mongoose dotenv 
+npm i bcrypt jsonwebtoken cookie-parser
+
+connect DB & create model & userSchema
+create route file 
+signup & login routes
+
+
+
+2. CLIENT
+
+npx create-react-app client
+npm i react-router-dom
+
+npm i @material-ui/core
+npm i @mui/icons-material
+
+create pages & components
+router pages
